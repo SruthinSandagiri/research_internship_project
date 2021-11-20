@@ -1,0 +1,11 @@
+C:\Users\SouravKr\Music\Study\c#\bin\Debug\netcoreapp2.2\c#.deps.json
+C:\Users\SouravKr\Music\Study\c#\bin\Debug\netcoreapp2.2\c#.runtimeconfig.json
+C:\Users\SouravKr\Music\Study\c#\bin\Debug\netcoreapp2.2\c#.runtimeconfig.dev.json
+C:\Users\SouravKr\Music\Study\c#\bin\Debug\netcoreapp2.2\c#.dll
+C:\Users\SouravKr\Music\Study\c#\bin\Debug\netcoreapp2.2\c#.pdb
+C:\Users\SouravKr\Music\Study\c#\obj\Debug\netcoreapp2.2\c#.csprojAssemblyReference.cache
+C:\Users\SouravKr\Music\Study\c#\obj\Debug\netcoreapp2.2\c#.csproj.CoreCompileInputs.cache
+C:\Users\SouravKr\Music\Study\c#\obj\Debug\netcoreapp2.2\c#.AssemblyInfoInputs.cache
+C:\Users\SouravKr\Music\Study\c#\obj\Debug\netcoreapp2.2\c#.AssemblyInfo.cs
+C:\Users\SouravKr\Music\Study\c#\obj\Debug\netcoreapp2.2\c#.dll
+C:\Users\SouravKr\Music\Study\c#\obj\Debug\netcoreapp2.2\c#.pdb
